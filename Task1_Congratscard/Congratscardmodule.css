@@ -1,0 +1,10 @@
+.Bg{
+    background-image:url("./Congratscard-Images/congratscard-bg.png");
+}
+.Container{
+    background-color:rgba(0, 255, 255, 0.725);
+    width:500px;
+    height:450px;
+    padding-top:50px;
+}
+
